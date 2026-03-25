@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I use Emacs for everything and I'm not sorry about it**
 
 ### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzy112&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzy112&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
