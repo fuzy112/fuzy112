@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zhengyi Fu's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 21, Total Commits  (last year) : 1543, Total PRs: 94, Total Issues: 49, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 21, Total Commits  (last year) : 1551, Total PRs: 95, Total Issues: 49, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.79328330752159;
+        stroke-dashoffset: 108.54552637456786;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >1.5k</text>
+      >1.6k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >94</text>
+      >95</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
