@@ -180,7 +180,7 @@
           data-testid="lang-progress"
           x="240.79"
           y="0"
-          width="19.21"
+          width="19.2"
           height="8"
           fill="#7e7eff"
         />
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#c065db" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Emacs Lisp 52.25%
+        Emacs Lisp 52.26%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
